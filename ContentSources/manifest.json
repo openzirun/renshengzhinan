@@ -1,0 +1,1030 @@
+[
+  {
+    "language": "en",
+    "repository": "dlgrv/HowToLiveBetter",
+    "commit": "d67d7b3277c911eab9d422b4390e7611251003a9",
+    "articles": 665,
+    "chapters": 34,
+    "files": [
+      {
+        "path": "book/en/01-Do-Not-Die-Early.md",
+        "sha256": "32321f9b19f14e2b406f2ea8a091d29a400021d019e57068eadef573d023faae"
+      },
+      {
+        "path": "book/en/02-Do-Not-Die-Slowly.md",
+        "sha256": "bd68d5fb70f6ad3fb1cf97051b7ac235ea414656a1244cbb8f40b68990044b08"
+      },
+      {
+        "path": "book/en/03-Do-Not-Waste-Energy.md",
+        "sha256": "a80b3bd4197ea3ffbf043d5c7919a0c8257817a03f6c5f4b4a6b13d514d723ba"
+      },
+      {
+        "path": "book/en/04-Do-Not-Waste-Time.md",
+        "sha256": "b40068a49667fc29776b8a4c0af6678c709896ab9d080c16dd3ccd269986e6c6"
+      },
+      {
+        "path": "book/en/05-Do-Not-Waste-Money.md",
+        "sha256": "31483cae06c587c285bca2b21edce76fce9768451ff6cc987c783e330b1538de"
+      },
+      {
+        "path": "book/en/06-The-Anti-List.md",
+        "sha256": "1f03e008f0aad93777f0da2497f27d0e9c894e21025da1da402778602146d09b"
+      },
+      {
+        "path": "book/en/07-Living-With-No-Money.md",
+        "sha256": "931e44a186b5ab3891d412a753834d5f4f62bd63fd86ceb6fb4ddc6289f2217a"
+      },
+      {
+        "path": "book/en/08-Do-Not-End-Up-Inside.md",
+        "sha256": "fbe46853ebe8c45c12f6be8a6af5e973b0370329c5b9b905496523886c1dd36a"
+      },
+      {
+        "path": "book/en/09-Legal-Red-Lines.md",
+        "sha256": "d1130cb28e4672e0f964009f7f6dfad7e9c398e642842d9518a5fc9b8afee354"
+      },
+      {
+        "path": "book/en/10-Is-Love-And-Marriage-Worth-It.md",
+        "sha256": "beb5f1369557df8fc0d16e3898d0ce2d3f81acf84ef51fe8f8bd2f40c8d11b57"
+      },
+      {
+        "path": "book/en/11-Red-Lines-For-Techies.md",
+        "sha256": "a390be25649e5119cf3c5e1c479d17aa31de96872af8b01a939ffba9db9ad542"
+      },
+      {
+        "path": "book/en/12-Starting-Your-Own-Business.md",
+        "sha256": "4506205270467c62999f1d3a3fc125b055f00a72dc42cf20ebb364b36e246172"
+      },
+      {
+        "path": "book/en/13-Emergencies.md",
+        "sha256": "0121b3f8aac6e857f3714067033145ca376a807c03f92638bcd36a8daf9221a9"
+      },
+      {
+        "path": "book/en/14-Accounts-And-Security.md",
+        "sha256": "0604e631fa1214292dc7da25a35e9524a89fd073621cfa36c1c136a98533efc0"
+      },
+      {
+        "path": "book/en/15-Renting-And-Buying-Housing.md",
+        "sha256": "bed218bafff3a4cd064154aaa79b1dc1c16556bc5998c08aa2022b224f439629"
+      },
+      {
+        "path": "book/en/16-Living-With-Chronic-Disease.md",
+        "sha256": "c6536a3869c333e72f3fb70703e3b355ae978ae0ff233ed9f14526e0f185466b"
+      },
+      {
+        "path": "book/en/17-Elderly-At-Home.md",
+        "sha256": "0d45bbc012f05a8ada1cf056b4fef90fb61a6659a87f48c7ce1116a17ffc22fd"
+      },
+      {
+        "path": "book/en/18-Is-Having-Kids-Worth-It.md",
+        "sha256": "ed7ce552c24490a7e9182941d39fcc5fbd1e9259783d111790188d2011d5d95b"
+      },
+      {
+        "path": "book/en/19-Employment-And-Work-Injury.md",
+        "sha256": "fc396e693e5082b7942a1d452b8b62f749145287e0319a9343813b6e45423a8f"
+      },
+      {
+        "path": "book/en/20-Newborn.md",
+        "sha256": "ce48787f7b032e9a7e6a3dc28cc66c2ec3475c79bf569cbfb5af2818e85acdab"
+      },
+      {
+        "path": "book/en/21-Travel-And-Abroad-Safety.md",
+        "sha256": "2f4b5d54c9049f6eda4048c39f19ac950ac2630875b33196a0dec8e6475d9ed4"
+      },
+      {
+        "path": "book/en/22-How-To-Relax.md",
+        "sha256": "c322b63c81194bdc2347c5459e234ca48033f5b4a468086c38d7eaa5309675b8"
+      },
+      {
+        "path": "book/en/23-Which-Skills-To-Learn.md",
+        "sha256": "a7919b1c43b8f320ede448c50e07f5793ec62fbef1363e714b2f5c9760647145"
+      },
+      {
+        "path": "book/en/24-Seeing-The-Doctor.md",
+        "sha256": "a65fb7e2295262ee470394310e4158e068100b80628ffca2a985b5ccc4fc2547"
+      },
+      {
+        "path": "book/en/25-After-Someone-Dies.md",
+        "sha256": "d92af41fb44403d2e7afaf6c4da8ee24f43a9ad087a23d857ac6e963bb2d4bf9"
+      },
+      {
+        "path": "book/en/26-Building-A-Website-Or-Platform.md",
+        "sha256": "764389f685d91c65fed1eeac1e8f7eb5a5b4103f0fecc082f616efefe58767d3"
+      },
+      {
+        "path": "book/en/27-Pregnancy-And-Birth.md",
+        "sha256": "6652fb3b389ec76619138a52cbbdfe08c82307c2cdd9f52a03844d2e892572c8"
+      },
+      {
+        "path": "book/en/28-Do-Not-Ruin-Health-For-Looks.md",
+        "sha256": "f87c256201183a614d04ee2432952f3e9e41cf6d273142a853d2b3dfb6d43559"
+      },
+      {
+        "path": "book/en/29-After-A-Major-Blow.md",
+        "sha256": "81cd8f9a47a21b1ded5352b4bfd59b6db2c3bb3a6ab414737c2f0254e56ecd86"
+      },
+      {
+        "path": "book/en/30-School-Age-Kids.md",
+        "sha256": "6e856451bcdc4b6c9534e055fc65bc53443e9e8797035d696574243f97e57ef1"
+      },
+      {
+        "path": "book/en/31-Paths-After-Eighteen.md",
+        "sha256": "a06c4b662edad2e0a5bfe29de8c70130695c2b4a5b15838140242361a2f75c58"
+      },
+      {
+        "path": "book/en/32-Studying-Abroad.md",
+        "sha256": "d3f5df2ae3bb12ee1a6e5447648ae9044560cdbf85ba1624b1a16c0b9cd1c6d5"
+      },
+      {
+        "path": "book/en/33-Living-With-Disability.md",
+        "sha256": "5e3cba20f5dfc312fb62f3d02578083a24f1159119d0af19689ad8d531df23b5"
+      },
+      {
+        "path": "book/en/34-Avoid-Serious-Harm-From-Home-Medicines.md",
+        "sha256": "7e79600a03e97a2a830ee06700b3609cb5e427c0c23f3e4c7b6bcd21f48f102d"
+      }
+    ],
+    "numberingAnomalies": []
+  },
+  {
+    "language": "ru",
+    "repository": "dlgrv/HowToLiveBetter",
+    "commit": "d67d7b3277c911eab9d422b4390e7611251003a9",
+    "articles": 665,
+    "chapters": 34,
+    "files": [
+      {
+        "path": "book/ru/01-Не-умирайте-рано.md",
+        "sha256": "7b8e415ff1bf4b0a97cc27612d78301c52f698f33499f366dc1e8e542aade7a5"
+      },
+      {
+        "path": "book/ru/02-Не-умирайте-медленно.md",
+        "sha256": "0c093bc17863c25d7e0c8e1e59871bbda9df7ed1cab7876926bd25c72a208fa5"
+      },
+      {
+        "path": "book/ru/03-Не-тратьте-силы-зря.md",
+        "sha256": "cb8ab6b588f2b5538b7b982f88b3fcbc1fd6eb8b40e641ea34824c427a05dd7e"
+      },
+      {
+        "path": "book/ru/04-Не-тратьте-время-впустую.md",
+        "sha256": "13797f5a8b923502a41987182aeabf2092e3b22c70a7417cc01522ed573aee51"
+      },
+      {
+        "path": "book/ru/05-Не-тратьте-деньги-впустую.md",
+        "sha256": "43aef9f1a58132da62053891d1aeab80fc334b8faaba773e47bec83d3636fc42"
+      },
+      {
+        "path": "book/ru/06-Анти-список.md",
+        "sha256": "e9d9cec8c79b0df7db9699036f2be238b6b543557ed82b49df840d3b87f7c998"
+      },
+      {
+        "path": "book/ru/07-Как-жить-без-денег.md",
+        "sha256": "0944d573dc3834fcd89d933754acc732c319a9a75dbf9b3ba118e4029cd2cc07"
+      },
+      {
+        "path": "book/ru/08-Не-подставляйтесь.md",
+        "sha256": "708ebd0ebfb28dafc28576829793f7bf4c670d5e21baeade03e08996369004ae"
+      },
+      {
+        "path": "book/ru/09-Юридические-красные-линии.md",
+        "sha256": "9b6902397e462fdc305fd37fc87df6d29252279945e081a4612d0b5c6e874cb3"
+      },
+      {
+        "path": "book/ru/10-Окупается-ли-брак.md",
+        "sha256": "55620fe3ddd4b477de17847c4f6edc2656950651744cb883181f63ae3a157b25"
+      },
+      {
+        "path": "book/ru/11-Красные-линии-для-технарей.md",
+        "sha256": "641dc979a43a3a6725585ca3ae4a79e5f43914f0828982b3c840f061c4a97e7a"
+      },
+      {
+        "path": "book/ru/12-Своё-дело.md",
+        "sha256": "c3aea8366ec245163ab6e8bdd7166834e32b0d0527dc1f6383ae6bc45c82706a"
+      },
+      {
+        "path": "book/ru/13-Экстренные-случаи.md",
+        "sha256": "aa73b368af6a135ba99393c979d2b51ae18c069e93623f1c22ec95b409772496"
+      },
+      {
+        "path": "book/ru/14-Аккаунты-и-безопасность.md",
+        "sha256": "40fd1d85efcd9056d11e41e6342953ecffc1f4ea5387449157203d50660fdd97"
+      },
+      {
+        "path": "book/ru/15-Аренда-и-покупка-жилья.md",
+        "sha256": "c0b04391a600d9502e269ff6b1f55ab4bbb79996ed00da7aca46b2a2954f47db"
+      },
+      {
+        "path": "book/ru/16-Жизнь-с-хронической-болезнью.md",
+        "sha256": "11aa3c0cc7c540ecffb442d0f1511e549a3291d2ccba4e141d93173d02044430"
+      },
+      {
+        "path": "book/ru/17-Пожилые-в-семье.md",
+        "sha256": "ff8a4ec548660b0d58c795049d560e40e95c862e66c04f890ee6dece890ff857"
+      },
+      {
+        "path": "book/ru/18-Окупаются-ли-дети.md",
+        "sha256": "ef3c29f0f51cc4465965bc77f8c420d58a5b836d558295dbcead4a9ae35237e6"
+      },
+      {
+        "path": "book/ru/19-Работа-и-травмы.md",
+        "sha256": "88ac0f34e9241ad386a695d856fb6fa4a78aaabf6881a1a5ad54c616c88adeb0"
+      },
+      {
+        "path": "book/ru/20-Новорождённый.md",
+        "sha256": "30ff576e3f85630c4de2785ab2c5fd3ad8c365413728854323b24b313b94fc88"
+      },
+      {
+        "path": "book/ru/21-Заграница-и-безопасность.md",
+        "sha256": "fd6bd4464cfd62774bf311a3b2784d335c9384892f3c3744f0e01ba5c9eddf99"
+      },
+      {
+        "path": "book/ru/22-Отдых-и-снятие-стресса.md",
+        "sha256": "0bcbcbc728ca90c03f1e41f057fd84fd5633261fb75942964b791549aa0aa41a"
+      },
+      {
+        "path": "book/ru/23-Какую-профессию-учить.md",
+        "sha256": "7b5124deed047d30fdbadec5248f79f6394cebbaa5aa1265b99b375cd259f136"
+      },
+      {
+        "path": "book/ru/24-У-врача.md",
+        "sha256": "425759d55898283535b462068a307093d03923a30091babdd583470c7a992275"
+      },
+      {
+        "path": "book/ru/25-После-смерти-человека.md",
+        "sha256": "dc4bae2f9b100618125337e298b79e13d21a375c250b190baf4add20d5ecf4da"
+      },
+      {
+        "path": "book/ru/26-Сайт-или-платформа.md",
+        "sha256": "b12195948043f6d973079608961bb7322340fb8a24998404d137304be7ce3062"
+      },
+      {
+        "path": "book/ru/27-Беременность-и-роды.md",
+        "sha256": "c2c582ad670fb74f805c885d0b3098ebd0283aabe74ac07d75822c1fa2156e6f"
+      },
+      {
+        "path": "book/ru/28-Не-ломайте-здоровье-ради-внешности.md",
+        "sha256": "b67d9fd04fb663ceddff4b4a1a724aab8c050488c5f36012f7013984622a4814"
+      },
+      {
+        "path": "book/ru/29-После-тяжёлого-удара.md",
+        "sha256": "a911b64f540567d1317e2e3003becbcefc51e8207e9238c15da9bf7b15ab4ad6"
+      },
+      {
+        "path": "book/ru/30-Ребёнок-в-школе.md",
+        "sha256": "c7f749b954c2d180e87febd80f49bc5fa7facd443eda70c96ca2e0fce646eaad"
+      },
+      {
+        "path": "book/ru/31-Дороги-после-восемнадцати.md",
+        "sha256": "d8a21e3a3aba388f46a2fd1aeb2b6c67edb26f2283d81aa57941848216b51afa"
+      },
+      {
+        "path": "book/ru/32-Учёба-за-границей.md",
+        "sha256": "ee0709e410b3d30a5880fccd705e62ca1c8362c74bf3ae9c5efccecb6e27c797"
+      },
+      {
+        "path": "book/ru/33-Как-жить-после-инвалидности.md",
+        "sha256": "d9c7b2f8585878eb7bf05dcd91587d75cdee55b9376ba14bffb4d9d5e28c9d1a"
+      },
+      {
+        "path": "book/ru/34-Домашние-лекарства-не-навреди.md",
+        "sha256": "c3b2503e2657cd2386c3e4cf7b13c8ce6ce267c8e1b01e2596a6689c31e28675"
+      }
+    ],
+    "numberingAnomalies": []
+  },
+  {
+    "language": "es",
+    "repository": "dlgrv/HowToLiveBetter",
+    "commit": "d67d7b3277c911eab9d422b4390e7611251003a9",
+    "articles": 665,
+    "chapters": 34,
+    "files": [
+      {
+        "path": "book/es/01-No-Mueras-Temprano.md",
+        "sha256": "54a7dfaf216024048cd45f272d2483cbbf3757fb2ae2a23788b0ec587af09e42"
+      },
+      {
+        "path": "book/es/02-No-Te-Dejes-Morir-Lentamente.md",
+        "sha256": "633fad65bb2d3cc80fcbfb4d7ecd795d81e62c3fa3e9c4b5f848444934f80d4f"
+      },
+      {
+        "path": "book/es/03-No-Desperdicies-Energia.md",
+        "sha256": "445e748fca802820456bea59adadeb6bffc803b11b795af5793e2771cbaa5849"
+      },
+      {
+        "path": "book/es/04-No-Desperdicies-Tiempo.md",
+        "sha256": "a8cfa7ba5a00337b36a34539310e8433b02b7d37cdc02f2d4078305f83c2e3c7"
+      },
+      {
+        "path": "book/es/05-No-Desperdicies-Dinero.md",
+        "sha256": "5bbe3c097a2cff224d14893fd87ef69b6a85d5c5f4b7c73f804a6a8a9717c30a"
+      },
+      {
+        "path": "book/es/06-La-Lista-Negra.md",
+        "sha256": "e0b20b1f6258702fbdc172371a6e5fe2e75b470035f4798436f569fb8465a4c1"
+      },
+      {
+        "path": "book/es/07-Como-Vivir-Sin-Dinero.md",
+        "sha256": "e347026865d0b517ac99bb71984dfd24b8f71cce4c4001d92e9ebd22d4b4bac9"
+      },
+      {
+        "path": "book/es/08-No-Te-Entres-Tu-Mismo.md",
+        "sha256": "4be735047137c4b1383799b16fed724212d46bc0ebf96623e5e6db2ec7ae20d6"
+      },
+      {
+        "path": "book/es/09-Lineas-Rojas-Legales-Para-Gente-Comun.md",
+        "sha256": "8307c42125a000e7804c3e2b3ac87b784c1f893878a99aba249d67ef075c004c"
+      },
+      {
+        "path": "book/es/10-Merece-La-Pena-Enamorarse-Y-Casarse.md",
+        "sha256": "83f79e6accab28f3b54eddb42ef669f6e25d956516edf38ff9996495ba8d8c98"
+      },
+      {
+        "path": "book/es/11-Lineas-Rojas-Para-Programadores-Y-Tecnicos.md",
+        "sha256": "57b374da0d9b84901227143321ac5f47ffe5b5e295fd0399ea7a26bb68d3a4c1"
+      },
+      {
+        "path": "book/es/12-Emprender-Y-Hacer-Negocios.md",
+        "sha256": "d8658f35e10b25d4de94fc6f3fff7b6b9fc137a29bcde92fe260a47e6436e7f9"
+      },
+      {
+        "path": "book/es/13-Emergencias.md",
+        "sha256": "f25a86ac801476d939b8935807ad1859beed13ff1504961be93e4306e87ebf71"
+      },
+      {
+        "path": "book/es/14-Cuentas-Y-Seguridad-De-La-Informacion.md",
+        "sha256": "c8c2ffd8a0047d81536eed05edb55bbb4404dc32a9f75169a45e4e02e56fdf87"
+      },
+      {
+        "path": "book/es/15-Alquilar-Y-Comprar-Vivienda.md",
+        "sha256": "ace5c32cab69d8c8a685cb0dbeb1e44ea72a88af43defdc8355a7b88fb712eff"
+      },
+      {
+        "path": "book/es/16-Vivir-Con-Una-Enfermedad-Cronica.md",
+        "sha256": "f0b1aceb9eeec4180bc83447a57aa23360da5bcd4cee5fca06cadb68b707117a"
+      },
+      {
+        "path": "book/es/17-Padres-Mayores-En-Casa.md",
+        "sha256": "606f4a5d9e8c788b33a17adc4b8847949b0860649087e9d6cc57c4ff2cf25c61"
+      },
+      {
+        "path": "book/es/18-Merece-La-Pena-Tener-Hijos.md",
+        "sha256": "8c3f6d3ff991d09910cfc3ab58004f8e2a4622055dec46e0a5c225117939e293"
+      },
+      {
+        "path": "book/es/19-Empleo-Y-Accidentes-Laborales.md",
+        "sha256": "2d671750fe90d654aa520fd1aa65b38b7031ac163debd61c8e0e636246c8b7ea"
+      },
+      {
+        "path": "book/es/20-Recien-Nacido.md",
+        "sha256": "d195cf1d7ebbb0c4d6614dd49a9ba5fae29154a13c8156ba94cd9f2efe68705b"
+      },
+      {
+        "path": "book/es/21-Viajes-Y-Seguridad-En-El-Extranjero.md",
+        "sha256": "d5c38356361d15bcf66ae5f6f583be69dada8d0f3bf800f9b3211a8dadbb393f"
+      },
+      {
+        "path": "book/es/22-Como-Relajarse.md",
+        "sha256": "d6ca4707ec1a3ac34d1764c2d7d67c03c6a98f2e16e3d873235f4589889416cc"
+      },
+      {
+        "path": "book/es/23-Que-Habilidades-Aprender.md",
+        "sha256": "155aed8f58ce1034b86344a987b40f225620af6c6b2d26a121e8abca0c9165dc"
+      },
+      {
+        "path": "book/es/24-Ir-Al-Medico.md",
+        "sha256": "545fbe1d99c4a86c614c26565279bc55258a24e47eaefe58cfa5cab551cda9e1"
+      },
+      {
+        "path": "book/es/25-Que-Hacer-Cuando-Alguien-Fallece.md",
+        "sha256": "12a8434e75356f05f4fe2ff6e5f094da2d98c364bce3a52a5a423489ef637976"
+      },
+      {
+        "path": "book/es/26-Crear-Una-Web-O-Plataforma.md",
+        "sha256": "df32b3a5c201704555832b18078612c09f8529472e9ff0cf792049e297f86bc9"
+      },
+      {
+        "path": "book/es/27-Embarazo-Y-Parto.md",
+        "sha256": "4e55cbded265195296e4cd3e8dfc71db0de4109e22aa9c7f705adb9be107eefa"
+      },
+      {
+        "path": "book/es/28-No-Arruines-La-Salud-Por-La-Apariencia.md",
+        "sha256": "d4a4db0231114785c0e0ee61bb178adb449a528d79f2c0cdbfe8b697cb1ae558"
+      },
+      {
+        "path": "book/es/29-Despues-De-Un-Golpe-Fuerte.md",
+        "sha256": "6ffef4bae2e502638891aaacda975149e16e592948187ac867830327191997bb"
+      },
+      {
+        "path": "book/es/30-Ninos-En-Edad-Escolar.md",
+        "sha256": "a85652a20c7b4695affb53e762055db91226121d1ac1e3709adb71f243690545"
+      },
+      {
+        "path": "book/es/31-Caminos-Despues-De-Los-Dieciocho.md",
+        "sha256": "fc4c4f10524bd7d0dbcb0a9f52c203a11e848e001c5a8374741419406a655458"
+      },
+      {
+        "path": "book/es/32-Estudiar-En-El-Extranjero.md",
+        "sha256": "f9591da2e89cff3dd857f1e2c9e83f09e027b0528a11e9584a3c984ef41b2f7d"
+      },
+      {
+        "path": "book/es/33-Como-Vivir-Tras-Una-Discapacidad.md",
+        "sha256": "df4be5434f1ea6609ea1e7e23d2ab96c19b54d129a8f66e00edc7c7d4cbc5296"
+      },
+      {
+        "path": "book/es/34-Medicamentos-Caseros-Sin-Hacerse-Dano.md",
+        "sha256": "8beb5ab7522feb08eb985a94ac14ca94f42afdfbe3fc732fb0572699075a890c"
+      }
+    ],
+    "numberingAnomalies": [
+      {
+        "file": "book/es/12-Emprender-Y-Hacer-Negocios.md",
+        "position": 12,
+        "printedNumber": 8
+      }
+    ]
+  },
+  {
+    "language": "pt",
+    "repository": "dlgrv/HowToLiveBetter",
+    "commit": "d67d7b3277c911eab9d422b4390e7611251003a9",
+    "articles": 665,
+    "chapters": 34,
+    "files": [
+      {
+        "path": "book/pt/01-Como-Evitar-Uma-Morte-Prematura.md",
+        "sha256": "671d6c14b74bbf1822cfdcb78cd1564ca83e07394550330b8bc4321ff78eba57"
+      },
+      {
+        "path": "book/pt/02-Não-Morra-Devagar.md",
+        "sha256": "a30df25229eb11c45c8830ce6adab82282963086377f039030d3e0142507eaac"
+      },
+      {
+        "path": "book/pt/03-Não-desperdice-energia.md",
+        "sha256": "8f0e5daef4db56e3d5d2d33c503fc1d98937cbde8bd0c1c1cbde2ec61a60c58f"
+      },
+      {
+        "path": "book/pt/04-Não-perca-tempo.md",
+        "sha256": "723498bd7eafe77c026b76a88d7e957b7cba85edc898ec4a704d2d1160d95ea6"
+      },
+      {
+        "path": "book/pt/05-Não-desperdice-dinheiro.md",
+        "sha256": "d8cd3ec27ba958a2e6b5b04f41fa4324db36f8d4949c729f07271bb91501b833"
+      },
+      {
+        "path": "book/pt/06-Lista-de-itens-a-evitar.md",
+        "sha256": "e14fdddbf01e7b79ae3b5bdf4fbd7026859509b0e1c5c31e899bced2542cfeef"
+      },
+      {
+        "path": "book/pt/07-Como-sobreviver-quando-não-se-tem-dinheiro.md",
+        "sha256": "d85b23e8c333d863812e30938b3d3b7ef595ce5bd89f67d3257f8fe8fd742674"
+      },
+      {
+        "path": "book/pt/08-Não-arrisque-sua-segurança-leis-e-proteção-patrimonial.md",
+        "sha256": "469b82f0e0c7e93e717e3a91dd77b30421c2d63efd22d3ea1a51e099463c58a8"
+      },
+      {
+        "path": "book/pt/09-Armadilhas-legais-que-as-pessoas-comuns-costumam-cometer.md",
+        "sha256": "0b9ce29b22c2332bef820a0ced4066d97016f39409d44cb0ab8a73ad0be7ee8f"
+      },
+      {
+        "path": "book/pt/10-Vale-a-pena-namorar-e-casar.md",
+        "sha256": "f8cf80d09b20d1124299be8bf263ed32bdb573821b42a8005af6b37bfb720fd0"
+      },
+      {
+        "path": "book/pt/11-Armadilhas-legais-comuns-para-programadores-e-profissionais-da-área-de-tecnologi.md",
+        "sha256": "0dd448d14be8ef3e64d53eb5fb91f8e57723f78570461cb5cd43160fb88313ed"
+      },
+      {
+        "path": "book/pt/12-Empreendedorismo-e-negócios-como-evitar-perder-seus-bens.md",
+        "sha256": "025a6b09b10eeb19e0697ad93ae127f73924ae29d4fbc5046ebf9a00fc20d623"
+      },
+      {
+        "path": "book/pt/13-Situações-de-emergência-o-que-fazer-primeiro.md",
+        "sha256": "bf1a43c229b55e24331e2cfeb01c5d8847aba9774b4b0923b2628094f4f4b3a7"
+      },
+      {
+        "path": "book/pt/14-Segurança-de-contas-e-informações-pessoais.md",
+        "sha256": "689e1ad3893d61c4d6f32cee1bb3d43a5d1a1184c318c40558020784c59585c8"
+      },
+      {
+        "path": "book/pt/15-Alugar-ou-comprar-um-imóvel.md",
+        "sha256": "e5dd1e98c55611ec318b3ad94b11c9a345d112db8209bc3b427ef2ca739c592c"
+      },
+      {
+        "path": "book/pt/16-Como-viver-após-desenvolver-uma-doença-crônica.md",
+        "sha256": "a14a46f3c200f809a119ad4c404e4b295ce41934ce05d7816af6daa7ebbdf58d"
+      },
+      {
+        "path": "book/pt/17-Idosos-em-casa.md",
+        "sha256": "98f9f0fb657c8fc7c9ff9e2c6cbd74d78fec7cf2ee71ca93ed3896e54e414b71"
+      },
+      {
+        "path": "book/pt/18-Vale-a-pena-ter-filhos.md",
+        "sha256": "9d8013230965dd9e5bfb42bded90ab7534ff7bce57957460dfb542ed77b478e6"
+      },
+      {
+        "path": "book/pt/19-Emprego-demissão-e-acidentes-de-trabalho.md",
+        "sha256": "20815366e538f7dcb415dbc4cb363369d482aac3c924a9966db97cc847ef0533"
+      },
+      {
+        "path": "book/pt/20-Recém-nascido-cuidados-iniciais.md",
+        "sha256": "57a3a6de12c8e2e0b1091c345a05eafc3722e7784f734e206c1b3a8ed07867ec"
+      },
+      {
+        "path": "book/pt/21-Viajar-ao-exterior-turismo-e-segurança-no-estrangeiro.md",
+        "sha256": "9ea0a11fdce3a27f82ece6563775c9504c99a1814af8e0cd6277141d97f71c98"
+      },
+      {
+        "path": "book/pt/22-Como-relaxar-locais-de-lazer-e-maneiras-de-aliviar-o-estresse.md",
+        "sha256": "9d1f53644d032b9e4d7176a4547d985c9907d1fb78e0f2e98af2ffc448392126"
+      },
+      {
+        "path": "book/pt/23-Quais-habilidades-valem-a-pena-aprender.md",
+        "sha256": "3a62c91aba1cf83353d8beff40d522d5a79013066d40581ff13f031dcb67ac0b"
+      },
+      {
+        "path": "book/pt/24-Como-consultar-um-médico-gastando-menos-e-evitando-complicações.md",
+        "sha256": "0ad8c8b8321f6a50263d0cd1b844e92150a08cbb18dbd3572c4836cf4f325a08"
+      },
+      {
+        "path": "book/pt/25-O-que-fazer-após-o-falecimento-de-alguém.md",
+        "sha256": "f2987002b6354a59182fac884736d462ac50b898dd9df7005df6558a5eb7b27b"
+      },
+      {
+        "path": "book/pt/26-Criar-um-site-ou-plataforma-licenças-registros-e-servidores.md",
+        "sha256": "d15c79c19965bf9709cf17d3ed73a9c6f07e23a299051ab7c285a8950d845d1e"
+      },
+      {
+        "path": "book/pt/27-Gravidez-e-parto-desde-a-confirmação-da-gravidez-até-a-alta-hospitalar-e-emissão.md",
+        "sha256": "5c606f5e6d9da96dc707f07c3f169ae92fbfdbc2f2191a3509821dbf39c478af"
+      },
+      {
+        "path": "book/pt/28-Não-prejudique-a-saúde-só-para-mudar-a-aparência.md",
+        "sha256": "ed32d40bb6e6afdaebeee412a332f3fa1bf65ee7ab6790dcb9e69c09c9fd60d5"
+      },
+      {
+        "path": "book/pt/29-Após-sofrer-um-grande-golpe.md",
+        "sha256": "63213c33c71000dd7b61b074229dd4b1e314533c9a07679171d479c56a228f57"
+      },
+      {
+        "path": "book/pt/30-Crianças-em-idade-escolar.md",
+        "sha256": "642be50c69da785a993833d647443866b79cf835cbb076b1bba3e4e56bbff91c"
+      },
+      {
+        "path": "book/pt/31-Quais-são-as-opções-após-completar-18-anos.md",
+        "sha256": "629dea7d57e398cc84848ee9b08d29eaca5a1ce7eb35f09271ce2cb7275644ba"
+      },
+      {
+        "path": "book/pt/32-Estudar-no-exterior-status-legal-trabalho-seguros-e-reconhecimento-do-diploma.md",
+        "sha256": "a56c01af70055cd729500f46dbf055e7111ac57bc7d404ead646f98b87324408"
+      },
+      {
+        "path": "book/pt/33-Como-viver-após-ficar-com-deficiência.md",
+        "sha256": "6c3767e79f8bcbffd68daaee1e10358c6ece859414f10a3203fb13b46cdeb16d"
+      },
+      {
+        "path": "book/pt/34-Cuidado-ao-usar-os-medicamentos-que-tem-em-casa.md",
+        "sha256": "5d9f0ba8f9ea2048f1a3ed30d711e29ea3b336678210f48f759215a9e4eaaabf"
+      }
+    ],
+    "numberingAnomalies": []
+  },
+  {
+    "language": "ar",
+    "repository": "dlgrv/HowToLiveBetter",
+    "commit": "d67d7b3277c911eab9d422b4390e7611251003a9",
+    "articles": 635,
+    "chapters": 34,
+    "files": [
+      {
+        "path": "book/ar/01-Do-Not-Die-Early.md",
+        "sha256": "d45781a0adfad254f27fa0288d516e0af144de458201c3f659dfc7b1116e5ec8"
+      },
+      {
+        "path": "book/ar/02-Do-Not-Die-Slowly.md",
+        "sha256": "dedfcccd4a000668a26877dd970b071fb584474af4b5d75ba9d7cce455977212"
+      },
+      {
+        "path": "book/ar/03-Do-Not-Waste-Energy.md",
+        "sha256": "2ba45253149fe0daf253591daf72ac42d2755680ea0ec9e4bb82c9a119ca4565"
+      },
+      {
+        "path": "book/ar/04-Do-Not-Waste-Time.md",
+        "sha256": "fd8f5798bebd6537477dad901bde5724d0f4c9a9b9e1d07bfe8fd164a12dd682"
+      },
+      {
+        "path": "book/ar/05-Do-Not-Waste-Money.md",
+        "sha256": "254c7c35d661aa4da6e177405a648cc5a442b6924568e16bd7e3d3d9fd16682a"
+      },
+      {
+        "path": "book/ar/06-The-Anti-List.md",
+        "sha256": "d57d3cb7a7ffe41c24670bace5282152decb56d97a26ad46cd0c0b9cc8f33fb2"
+      },
+      {
+        "path": "book/ar/07-Living-With-No-Money.md",
+        "sha256": "af7da226fa941408b7be107d55a36466b3dd5d8c800d7e31fb3fd4a304cfbbcd"
+      },
+      {
+        "path": "book/ar/08-Do-Not-End-Up-Inside.md",
+        "sha256": "18c84096c19c585bdfa239924a8868d7b21a1d627f024df47a9ebd92671b937a"
+      },
+      {
+        "path": "book/ar/09-Legal-Red-Lines.md",
+        "sha256": "8ec959c548f19257546512774de2ea014648adc76b86bcdec7c0b68065e44c2e"
+      },
+      {
+        "path": "book/ar/10-Is-Love-And-Marriage-Worth-It.md",
+        "sha256": "6ec704f93038dca8b6f74e0d6ae873043a29cb59ecd9a3f8a818e06eda9b8446"
+      },
+      {
+        "path": "book/ar/11-Red-Lines-For-Techies.md",
+        "sha256": "6cfaaf1af16525173fe0f2da34d2e732ca230be8d9dc4023a41bf66b68055962"
+      },
+      {
+        "path": "book/ar/12-Starting-Your-Own-Business.md",
+        "sha256": "30374393e82f3bee9ba57199e7454850b7dd368f6eb6e6d81a6f8e5bf5fb2e1a"
+      },
+      {
+        "path": "book/ar/13-Emergencies.md",
+        "sha256": "e5c8b30729f8dbe7e57bf790c0a232930ecf6dfd0ddd6339048c4e3719300b27"
+      },
+      {
+        "path": "book/ar/14-Accounts-And-Security.md",
+        "sha256": "50d4d67c5c55d092e628a2ac0e73207e87f46d06235250eb4b9210d4e5f5f2d2"
+      },
+      {
+        "path": "book/ar/15-Renting-And-Buying-Housing.md",
+        "sha256": "c9e5920a04c8d6598e3b77165d251becedc70c846a16ff1e9a433a2529a43399"
+      },
+      {
+        "path": "book/ar/16-Living-With-Chronic-Disease.md",
+        "sha256": "f69ec1969c3dbbc469f124a5e5959ffafd3cd2bf71d6efe501bc43d95fc1d3ab"
+      },
+      {
+        "path": "book/ar/17-Elderly-At-Home.md",
+        "sha256": "ce4ee97bb7b0d35ee448c255c7504256471aea397941264ec84a3c7e3b00b96b"
+      },
+      {
+        "path": "book/ar/18-Is-Having-Kids-Worth-It.md",
+        "sha256": "57cafaa8c225672c23c1d6bd556bba6c87a939010113e588e5ec016487088c92"
+      },
+      {
+        "path": "book/ar/19-Employment-And-Work-Injury.md",
+        "sha256": "961ef0da732439c758589ddcceb0b16ef7aee95de5ea83320d4dac30a0b6d408"
+      },
+      {
+        "path": "book/ar/20-Newborn.md",
+        "sha256": "52e6460e63b998fd8447b7785f076b7b2922b20f106f1c88539c179db9369a4f"
+      },
+      {
+        "path": "book/ar/21-Travel-And-Abroad-Safety.md",
+        "sha256": "a30c73a052c2b3ffb50a8e8d79d42132884067ad2a7a465beea2f198832ea3d5"
+      },
+      {
+        "path": "book/ar/22-How-To-Relax.md",
+        "sha256": "bc67739047b559675c57c6c8983da1cb45a918ef151aff8c6d4af64bcda5221a"
+      },
+      {
+        "path": "book/ar/23-Which-Skills-To-Learn.md",
+        "sha256": "31ffb6dc13dd2409a3089794d4cb8443fa27889252a153e110a08b9b122b2687"
+      },
+      {
+        "path": "book/ar/24-Seeing-The-Doctor.md",
+        "sha256": "14f744a98a5e32ce0351dc691a4130c24da8ed7bad3daf2819c6cdf8cf95e375"
+      },
+      {
+        "path": "book/ar/25-After-Someone-Dies.md",
+        "sha256": "4b6e8fb560d82e47eed170dfd9f432288ded0986121b8262ba7e866fdd9ae338"
+      },
+      {
+        "path": "book/ar/26-Building-A-Website-Or-Platform.md",
+        "sha256": "c7862887da9adfe3423059e7d00ea2a83f00a4f3b9f6dadd5a00f2d7641ccd1d"
+      },
+      {
+        "path": "book/ar/27-Pregnancy-And-Birth.md",
+        "sha256": "527c29fffe4865a570ce0477ae7cb675f05b47ad89de9db8dcf53d5393fcede7"
+      },
+      {
+        "path": "book/ar/28-Do-Not-Ruin-Health-For-Looks.md",
+        "sha256": "bd9700db840a6f91dd89d21cb063ace2ba6dbb39a92456a8cca572435ad359aa"
+      },
+      {
+        "path": "book/ar/29-After-A-Major-Blow.md",
+        "sha256": "e0998c83c6fbee0a0da22833f81ceeb3ec0d1573e248a390a8961875cf832f14"
+      },
+      {
+        "path": "book/ar/30-School-Age-Kids.md",
+        "sha256": "246a1ecc3309add185b684b5ed790e573cb2768feb4fb0a71207d77fb621b753"
+      },
+      {
+        "path": "book/ar/31-Paths-After-Eighteen.md",
+        "sha256": "a9f0847983f4c784a32b8ad00689b0414ec6ea8c2f5b2159badd407cf3f93f17"
+      },
+      {
+        "path": "book/ar/32-Studying-Abroad.md",
+        "sha256": "60fb501da1ad82f9355e87cee1361d0d5b333d92e9bdb13ce4efdf433b3f944e"
+      },
+      {
+        "path": "book/ar/33-Living-With-Disability.md",
+        "sha256": "9a5539874401f3f32ba77676c4de9221b0baf84fa42cb1660212f3fd90dc9817"
+      },
+      {
+        "path": "book/ar/34-Avoid-Serious-Harm-From-Home-Medicines.md",
+        "sha256": "756cbd00c1dfdceee75fef191d1abf56b7b213fff34b482a9df1f8d9b3c74bfa"
+      }
+    ],
+    "numberingAnomalies": []
+  },
+  {
+    "language": "id",
+    "repository": "dlgrv/HowToLiveBetter",
+    "commit": "d67d7b3277c911eab9d422b4390e7611251003a9",
+    "articles": 630,
+    "chapters": 34,
+    "files": [
+      {
+        "path": "book/id/01-Hindari-Kematian-Dini.md",
+        "sha256": "37c1b62e82bbff36917271db7c68d1cd61e41482eb28f77c3a911b3b3faa2fee"
+      },
+      {
+        "path": "book/id/02-Jangan-Rusak-Kesehatan-Perlahan.md",
+        "sha256": "dfad1b34ac710eb3f0ff656090254ce8d1844af0d7fae7a500f8af1b5a2c596d"
+      },
+      {
+        "path": "book/id/03-Jaga-Tenaga.md",
+        "sha256": "a9a1ae365e410290d7af22f330ca515df0bfa3481a6c6595a55bf12ab3d0b015"
+      },
+      {
+        "path": "book/id/04-Hemat-Waktu.md",
+        "sha256": "e110a5c58bbfdff13e796490e7b5bcf5caff79ddeef9d389923f957957c0bb0b"
+      },
+      {
+        "path": "book/id/05-Jaga-Uang.md",
+        "sha256": "17169c2caeb7db9c655363d1661c704cb3cb9e0e91543227afb0cd303425ca19"
+      },
+      {
+        "path": "book/id/06-Yang-Tampak-Berguna-Tapi-Tidak.md",
+        "sha256": "8f5ec65f1b33489c703866f3a68cb1c8deaecfb8aa80351d54d8d6acd7fc7011"
+      },
+      {
+        "path": "book/id/07-Saat-Tidak-Punya-Uang.md",
+        "sha256": "aa96399fbb9b94342773fed76b266df59797db8d3e7d56758ea2da4c5a622d8b"
+      },
+      {
+        "path": "book/id/08-Lindungi-Diri-Dan-Harta.md",
+        "sha256": "edca673ea476c4f4ea904accafc07b03d70e24bdadff85ef155bbc79629a9b33"
+      },
+      {
+        "path": "book/id/09-Batas-Hukum-Sehari-Hari.md",
+        "sha256": "8850b4bc51d3673837031bc97fff17961e3c85bd20bdd1d5b51967d83bbfa530"
+      },
+      {
+        "path": "book/id/10-Cinta-Dan-Pernikahan.md",
+        "sha256": "6acb5812284661af1a1620aad19487f181167ea9a4371e9f1be48daa8a8ce1e1"
+      },
+      {
+        "path": "book/id/11-Batas-Hukum-Bagi-Pekerja-Teknologi.md",
+        "sha256": "c61905abfac499e08a04dd33d90f708538b88ccb0558584a37bd46b6de22b2fd"
+      },
+      {
+        "path": "book/id/12-Memulai-Usaha.md",
+        "sha256": "6952ea0533ea2b8521737c0c45d914bebfe7588df28a9a28896c855fe85cf25c"
+      },
+      {
+        "path": "book/id/13-Keadaan-Darurat.md",
+        "sha256": "7e8b1ba886165392cbb7eb19dab1d538d41e118def7b1a9d35a53aa00390ed09"
+      },
+      {
+        "path": "book/id/14-Keamanan-Akun-Dan-Data.md",
+        "sha256": "da2637f77155b50f1e98a9ca7aa3e2692f4f4b31e6ee75abe998176b0a6be83a"
+      },
+      {
+        "path": "book/id/15-Menyewa-Dan-Membeli-Rumah.md",
+        "sha256": "7099ac2fb1a6f7366220c64616556fa36d90cc285e41b2e7b90fefb12e4b3d6a"
+      },
+      {
+        "path": "book/id/16-Hidup-Dengan-Penyakit-Kronis.md",
+        "sha256": "f2bb24aee825ec26600056eb99b396bf3b56f046a1384453cc2a8eee0db357b5"
+      },
+      {
+        "path": "book/id/17-Keluarga-Lanjut-Usia.md",
+        "sha256": "bbd5656028c988d6bee44b7514a5b9232dcd74b655ff4a0d8aa302431bae34c9"
+      },
+      {
+        "path": "book/id/18-Membesarkan-Anak.md",
+        "sha256": "52ede23fdebb366b227828afcdc254848640e0a193ed1156b302a1bf835371d9"
+      },
+      {
+        "path": "book/id/19-Kerja-Dan-Cedera-Kerja.md",
+        "sha256": "9f3bc999951fcd39dafed64f3a5fa1441f3ffa1dbd7fe3c27bebbd18bf04c770"
+      },
+      {
+        "path": "book/id/20-Bayi-Baru-Lahir.md",
+        "sha256": "92163651115ca93ab090ccd74f78df4c99fa2c99e8311915ef145e5e9dd034bd"
+      },
+      {
+        "path": "book/id/21-Bepergian-Dan-Keamanan-Di-Luar-Negeri.md",
+        "sha256": "179c0ccedad1dcb09e824fca3fef67c79fe64904ba12a7bc115adc1e4fd4e28f"
+      },
+      {
+        "path": "book/id/22-Beristirahat-Dan-Mengelola-Stres.md",
+        "sha256": "3420369de3f6429cecaca5053d25a7d3356a32d731ce389e143c85362f829d3c"
+      },
+      {
+        "path": "book/id/23-Keterampilan-Yang-Layak-Dipelajari.md",
+        "sha256": "95d4aa2506a23407490588f3ad75e2cdab0ecc700e8a3ad4f8d57f003a1b054c"
+      },
+      {
+        "path": "book/id/24-Berobat.md",
+        "sha256": "716302e0012f53068cfaf58fb254d12849defa1778a4de76a008b402b5a18dbd"
+      },
+      {
+        "path": "book/id/25-Setelah-Seseorang-Meninggal.md",
+        "sha256": "1398c39ca5e5db18683ddf0bec3973659fcce83c3c00e427200ea69bfad79e16"
+      },
+      {
+        "path": "book/id/26-Membangun-Situs-Atau-Platform.md",
+        "sha256": "d3bfe8583ee3f0e5c5ddc5de1da7095de9d5d466984516931bceca012a0b5ea3"
+      },
+      {
+        "path": "book/id/27-Kehamilan-Dan-Persalinan.md",
+        "sha256": "8b9aa71252ba684be63dd8bb80745a01aabce3d545eb33efc9b63c8f0dd9f7f3"
+      },
+      {
+        "path": "book/id/28-Menjaga-Kesehatan-Saat-Mengubah-Penampilan.md",
+        "sha256": "71ed58ed2950b0d011a8439970b2f8f89a30e64974a16e3954afe732c0a6b1b4"
+      },
+      {
+        "path": "book/id/29-Setelah-Pukulan-Hidup-Yang-Berat.md",
+        "sha256": "7f08608231c33cd46e4c942fffeada1220fd4af155bec7858635a7f4b1a9b86d"
+      },
+      {
+        "path": "book/id/30-Anak-Usia-Sekolah.md",
+        "sha256": "17313d2133cca73d2b231e976c653c7a8ec2fc9fbcfc46271ee3006a4164f7e2"
+      },
+      {
+        "path": "book/id/31-Pilihan-Setelah-18-Tahun.md",
+        "sha256": "a42090b1a0ee866129645cb8b898a04344f92d6953a95b78b7c5df0cca1dd825"
+      },
+      {
+        "path": "book/id/32-Kuliah-Di-Luar-Negeri.md",
+        "sha256": "da8785b8916e26579629a1a7ee76a1bc04da1d3b7a65d4cfafc46c8b240a28ec"
+      },
+      {
+        "path": "book/id/33-Hidup-Setelah-Disabilitas.md",
+        "sha256": "51edad96ae2a343cff68a6d1383683e83bbb993170efe74dce488e93b54cff8e"
+      },
+      {
+        "path": "book/id/34-Obat-Rumahan-Dengan-Aman.md",
+        "sha256": "87586f42d074a956e9ef68aabd4cd63a934f50ed90358f4e0b2bb3a6b2292f59"
+      }
+    ],
+    "numberingAnomalies": []
+  },
+  {
+    "language": "vi",
+    "repository": "chuanman2707/HowToLiveBetter",
+    "commit": "4a57509c0312a77e6ec7c8ac363bed4909edf267",
+    "articles": 641,
+    "chapters": 34,
+    "files": [
+      {
+        "path": "book/01-dung-chet-som.md",
+        "sha256": "107a9c799df0ceabb3df0930e22bac6658f2665b9d6b87a058e0fa994841eef1"
+      },
+      {
+        "path": "book/02-dung-chet-tu-tu.md",
+        "sha256": "e56dc2f189dc1c0e4d28079d394630da10e30524dde96000635abc9001d9c740"
+      },
+      {
+        "path": "book/03-dung-lang-phi-suc-luc.md",
+        "sha256": "39b079ded96e8634e619a554484ab0865661aa88657401be697dba426937faef"
+      },
+      {
+        "path": "book/04-dung-lang-phi-thoi-gian.md",
+        "sha256": "e021970da61a95aad948ac7e678ed866e86ccacbba03d965b4f0234ab0db06e6"
+      },
+      {
+        "path": "book/05-dung-lang-phi-tien.md",
+        "sha256": "98fc99a3b0a1f7922246a811e9203278fbfd7c0a5adb05ed1effe6c4111fb958"
+      },
+      {
+        "path": "book/06-danh-sach-nen-tranh.md",
+        "sha256": "767bd77235b3733365de6fdf0bc44d0dba6859b8467b5084aff35217057f5443"
+      },
+      {
+        "path": "book/07-song-khi-khong-co-tien.md",
+        "sha256": "e2bb29986e7eb5fc5293b0de90cbb6acd79275b6254369703ad8373654a2cbca"
+      },
+      {
+        "path": "book/08-dung-tu-chuoc-hoa-vao-than.md",
+        "sha256": "98b3af7aa32f3a6a82b0541c07efe44c7ca097ad6473cd216ff940ab701c74b1"
+      },
+      {
+        "path": "book/09-lan-san-do-phap-luat-de-vi-pham.md",
+        "sha256": "dfcda04625f202a7c92aac8c419831fc62f1f15e33d815a5dde841458fc2e35f"
+      },
+      {
+        "path": "book/10-yeu-va-cuoi-co-dang-khong.md",
+        "sha256": "e733c3bf3a689e4d1fd1b850d29b33f5d48bb42cacdcd09369bf0dbda515df66"
+      },
+      {
+        "path": "book/11-lan-san-do-cua-dan-ky-thuat.md",
+        "sha256": "839c296349b4d096e56901141247567a5f69af8f90c643c772940ff2ea094731"
+      },
+      {
+        "path": "book/12-khoi-nghiep-va-lam-an.md",
+        "sha256": "2d63b91297da985cffbc55e0fcd567e51a9a17c00076237f33b57e41cdece0df"
+      },
+      {
+        "path": "book/13-tinh-huong-khan-cap.md",
+        "sha256": "660b9233d600ed632cdb658f9c62c6a696f151cb03f7dc691dd182e995eca2d6"
+      },
+      {
+        "path": "book/14-tai-khoan-va-an-toan-thong-tin.md",
+        "sha256": "9adc50fc119cbbebcef46290d53903940bce884a73c5cc1fb9a584ef4528b491"
+      },
+      {
+        "path": "book/15-thue-va-mua-nha.md",
+        "sha256": "4987341a93852db04a1e28b1a4a49b42132c58316b6b447092b1431ec3fe06c3"
+      },
+      {
+        "path": "book/16-song-sau-khi-mac-benh-man-tinh.md",
+        "sha256": "a35c999a6d969d7f741fce24a1248c92bb4636cfe260152682c54f4c82bf21f4"
+      },
+      {
+        "path": "book/17-nha-co-nguoi-gia.md",
+        "sha256": "8ec2dbdc26e863e285e7eff7b6566e028d97710767505dba767966119a27d215"
+      },
+      {
+        "path": "book/18-nuoi-con-co-dang-khong.md",
+        "sha256": "ddcbfdcfc716968ee75cc0da2db570a7d15396e3bc8c7d6c2e7feeac2c8f405c"
+      },
+      {
+        "path": "book/19-di-lam-nghi-viec-va-tai-nan-lao-dong.md",
+        "sha256": "3da2b14a8b8401d7bca9c70cb91d9e497492ecc9c39ca775e208b403394dd9c8"
+      },
+      {
+        "path": "book/20-cham-tre-so-sinh.md",
+        "sha256": "79adb5c4862a6b47f011e5c4b02dff0e63d3f18d6dc3574cdf69eb981164c85f"
+      },
+      {
+        "path": "book/21-du-lich-va-an-toan-nuoc-ngoai.md",
+        "sha256": "b28e0ea048edb3a95c0df0b10fe3955e42669a105201becc6cf7fae9a4197b57"
+      },
+      {
+        "path": "book/22-thu-gian-the-nao.md",
+        "sha256": "6169fc8bfa9d3f3019a0cdad4b0cc135b2f9a6d9d57861a5149bed5d6dc50e0c"
+      },
+      {
+        "path": "book/23-hoc-ky-nang-gi-dang.md",
+        "sha256": "136b5d84203a130847e2f3b280d40b0317e72e31e3e4925e7d8560417c8ff399"
+      },
+      {
+        "path": "book/24-di-kham-benh.md",
+        "sha256": "c99ca55d28a8fd8f8210de73f6f58f3382e45da83b325d61c6738e322041283f"
+      },
+      {
+        "path": "book/25-viec-phai-lam-khi-nguoi-than-qua-doi.md",
+        "sha256": "09d348417f1ffa7190cc78dfdad87d3889b0d76b6f0d6a9e67a77af59dbff80f"
+      },
+      {
+        "path": "book/26-lam-mot-website-hoac-nen-tang.md",
+        "sha256": "4884ed505ae03774b2876d2cc5627403289cf181e10fbfc4c4d1c05e2caac8e3"
+      },
+      {
+        "path": "book/27-mang-thai-va-sinh-con.md",
+        "sha256": "abbb37181628636d844cef60504035f4366e7459318e7c4c73e1329700c8ab95"
+      },
+      {
+        "path": "book/28-dung-vi-ngoai-hinh-pha-hong-suc-khoe.md",
+        "sha256": "fdf7ea21f98c09166d3c1b99a7ad7915aba2a708a75e96abc7f392f0989af9b5"
+      },
+      {
+        "path": "book/29-sau-khi-gap-cu-soc-lon.md",
+        "sha256": "304cc9e623742f52c7f62dacbab2b10d7cee75ecc9b455ac7da6dd2c74eb50e1"
+      },
+      {
+        "path": "book/30-con-cai-tuoi-di-hoc.md",
+        "sha256": "87e88c79198492a8d8534a9bd9500873fc26c57cf64bac2ba3a3b5b1643c67c7"
+      },
+      {
+        "path": "book/31-nhung-con-duong-sau-tuoi-muoi-tam.md",
+        "sha256": "0cd5a7690f7b6b0e810e38f6e6220d839e04bb3f4bca194ebf62118cf13201a5"
+      },
+      {
+        "path": "book/32-du-hoc-nuoc-ngoai.md",
+        "sha256": "6e03efb2fe755460c32cce6ee9b5bdfdf3a454dd0c1ea5f82ccda588139a2c6e"
+      },
+      {
+        "path": "book/33-song-sau-khi-khuyet-tat.md",
+        "sha256": "855443dd47c3b7b9ebc1ba2e43258657f0dc421f994258f078d09996ca21cd39"
+      },
+      {
+        "path": "book/34-thuoc-san-trong-nha-dung-de-uong-thanh-hoa.md",
+        "sha256": "09df98c87d1ca2a289188991786651f9aa5921d4d6752718028f7867ee87c84b"
+      }
+    ],
+    "numberingAnomalies": []
+  }
+]

@@ -1,0 +1,16 @@
+.DS_Store
+build/
+tmp/
+*.xcuserstate
+xcuserdata/
+
+# Local App Store operations, generated media and signing artifacts
+release/
+screenshots/
+*.xcarchive/
+*.ipa
+*.p12
+*.p8
+*.mobileprovision
+.env
+.env.*

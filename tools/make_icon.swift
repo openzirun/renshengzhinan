@@ -1,0 +1,18 @@
+import AppKit
+let size = CGSize(width: 1024, height: 1024)
+let image = NSImage(size: size)
+image.lockFocus()
+NSColor(red: 0.14, green: 0.31, blue: 0.25, alpha: 1).setFill()
+NSBezierPath(rect: NSRect(origin: .zero, size: size)).fill()
+NSColor(red: 0.96, green: 0.93, blue: 0.83, alpha: 1).setFill()
+let left = NSBezierPath()
+left.move(to: NSPoint(x: 225,y: 295)); left.line(to: NSPoint(x: 225,y: 620))
+left.curve(to: NSPoint(x: 490,y: 560), controlPoint1: NSPoint(x: 350,y: 650),controlPoint2: NSPoint(x: 440,y: 605))
+left.line(to: NSPoint(x: 490,y: 235)); left.curve(to: NSPoint(x: 225,y: 295),controlPoint1: NSPoint(x: 410,y: 280),controlPoint2: NSPoint(x: 320,y: 315));left.close();left.fill()
+let right = NSBezierPath()
+right.move(to: NSPoint(x: 534,y: 235));right.line(to: NSPoint(x: 534,y: 560));right.curve(to: NSPoint(x: 799,y: 620),controlPoint1: NSPoint(x: 620,y: 605),controlPoint2: NSPoint(x: 710,y: 650));right.line(to: NSPoint(x: 799,y: 295));right.curve(to: NSPoint(x: 534,y: 235),controlPoint1: NSPoint(x: 700,y: 315),controlPoint2: NSPoint(x: 610,y: 280));right.close();right.fill()
+NSColor(red: 0.69, green: 0.78, blue: 0.48, alpha: 1).setFill()
+let leaf=NSBezierPath();leaf.move(to:NSPoint(x:510,y:625));leaf.curve(to:NSPoint(x:704,y:827),controlPoint1:NSPoint(x:485,y:775),controlPoint2:NSPoint(x:585,y:831));leaf.curve(to:NSPoint(x:510,y:625),controlPoint1:NSPoint(x:730,y:700),controlPoint2:NSPoint(x:615,y:619));leaf.fill()
+image.unlockFocus()
+let bitmap=NSBitmapImageRep(data:image.tiffRepresentation!)!
+try bitmap.representation(using:.png,properties:[:])!.write(to:URL(fileURLWithPath:CommandLine.arguments[1]))
