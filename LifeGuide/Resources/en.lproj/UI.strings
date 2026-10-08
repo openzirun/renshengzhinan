@@ -96,3 +96,5 @@
 "loadTitle" = "Content unavailable";
 "loadError" = "Unable to read this language edition. Please reopen the app.";
 "close" = "Close";
+"privacyPolicy" = "Privacy Policy";
+"technicalSupport" = "Support";

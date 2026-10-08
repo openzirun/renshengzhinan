@@ -96,3 +96,5 @@
 "loadTitle" = "Không tải được nội dung";
 "loadError" = "Không đọc được phiên bản này. Vui lòng mở lại ứng dụng.";
 "close" = "Đóng";
+"privacyPolicy" = "Chính sách quyền riêng tư";
+"technicalSupport" = "Hỗ trợ";

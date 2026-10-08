@@ -96,3 +96,5 @@
 "loadTitle" = "内容载入失败";
 "loadError" = "无法读取该语言的内容，请重新打开 App。";
 "close" = "关闭";
+"privacyPolicy" = "隐私政策";
+"technicalSupport" = "技术支持";

@@ -96,3 +96,5 @@
 "loadTitle" = "Contenido no disponible";
 "loadError" = "No se pudo leer esta versión. Vuelve a abrir la app.";
 "close" = "Cerrar";
+"privacyPolicy" = "Política de privacidad";
+"technicalSupport" = "Soporte";

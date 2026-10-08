@@ -2,7 +2,7 @@ import Foundation
 
 /// Shared by the app and WidgetKit so the same local day always shows the same tip.
 enum DailyReading {
-    static let appGroup = "group.com.lifeguide.ios"
+    static let appGroup = "group.com.zirunly.HowToLiveBetter"
     static let widgetKind = "DailyReadingWidget"
 
     static func article(in articles: [Article], at date: Date, calendar: Calendar = .current) -> Article? {

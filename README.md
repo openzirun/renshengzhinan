@@ -4,7 +4,7 @@
 
 ## 打开与运行
 
-用 Xcode 打开 `LifeGuide.xcodeproj`，选择 `LifeGuide` scheme 与 iPhone 模拟器运行。真机运行需在 Signing & Capabilities 中选择自己的开发团队，并按需修改 Bundle Identifier。此项目没有配置发布证书。
+用 Xcode 打开 `LifeGuide.xcodeproj`，选择 `LifeGuide` scheme 与 iPhone 模拟器运行。真机运行需在 Signing & Capabilities 中选择自己的开发团队，并按需修改 Bundle Identifier。发布团队已配置为 App Store Connect 对应团队；签名证书和授权配置由已登录的 Xcode 账号管理，不包含在仓库中。
 
 ## 语言切换
 
@@ -27,7 +27,7 @@
 
 小尺寸显示标题与证据等级，中 / 大尺寸额外显示摘要。点击小组件直接打开该语言的对应文章。与首页使用相同推荐规则，推荐内容均可直接阅读；离线可用。预生成未来七天的本地午夜时间线，实际刷新时机由 iOS 调度，语言同步也可能有短暂延迟。
 
-真机运行需给 `LifeGuide` 和 `DailyReadingWidget` 选择同一开发团队，并为两个 target 启用同一个 App Group：`group.com.lifeguide.ios`。若改用自己的 Bundle ID / App Group，请同步修改 `project.yml` 和 `LifeGuide/DailyReading.swift` 中的组标识，再运行 `xcodegen generate`。扩展只共享语言设置，收藏、行动、已读记录仍保留在主应用中。
+真机运行需给 `LifeGuide` 和 `DailyReadingWidget` 选择同一开发团队，并为两个 target 启用同一个 App Group：`group.com.zirunly.HowToLiveBetter`。若改用自己的 Bundle ID / App Group，请同步修改 `project.yml` 和 `LifeGuide/DailyReading.swift` 中的组标识，再运行 `xcodegen generate`。扩展只共享语言设置，收藏、行动、已读记录仍保留在主应用中。
 
 ## 内容来源与改编
 

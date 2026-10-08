@@ -96,3 +96,5 @@
 "loadTitle" = "Konten tidak tersedia";
 "loadError" = "Tidak dapat membaca versi bahasa ini. Buka ulang aplikasi.";
 "close" = "Tutup";
+"privacyPolicy" = "Kebijakan Privasi";
+"technicalSupport" = "Dukungan";

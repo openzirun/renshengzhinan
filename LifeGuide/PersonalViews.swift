@@ -108,7 +108,11 @@ struct AboutView: View {
                     NavigationLink(library.text("intro")) { SupplementView(supplement: intro) }
                 }
             }
-            Section(library.text("privacy")) { Text(library.text("privacyText")) }
+            Section(library.text("privacy")) {
+                Text(library.text("privacyText"))
+                Link(library.text("privacyPolicy"), destination: URL(string: "https://openzirun.github.io/renshengzhinan/privacy.html")!)
+                Link(library.text("technicalSupport"), destination: URL(string: "https://openzirun.github.io/renshengzhinan/support.html")!)
+            }
         }.navigationTitle(library.text("about")).navigationBarTitleDisplayMode(.inline)
             .scrollContentBackground(.hidden).background(Theme.paper)
             .sheet(isPresented: $showLanguages) { LanguagePickerView() }
